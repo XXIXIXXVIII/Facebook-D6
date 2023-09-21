@@ -1,0 +1,17 @@
+export const congratulations = [
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/5ooeZJWLOSl.png', title: 'tình bạn'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/Q5DAVMG-eCj.png', title: 'sinh nhật'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/Lt9KbIk9NFp.png', title: 'ngày đặc biệt của bạn'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/6gsYm9fL1Zi.png', title: 'giáng sinh'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/Lt9KbIk9NFp.png', title: 'giao thừa '},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/FMwKiaJgRuC.png', title: 'sinh nhật nữ hoàng'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/RBbDmTzG08p.png', title: 'thành công'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/gI4LpQ0a9kU.png', title: 'kỳ nghỉ'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/I6csF2V5V2R.png', title: 'kỷ niệm ngày cưới'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/aQjkUveZvna.png', title: 'tình yêu'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/ScFMYdzHar6.png', title: 'chiến thắng'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/_XFtvYICn-x.png', title: 'tốt nghiệp'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/483E23IFLTf.png', title: 'đính hôn'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/VSzkmi5Ze_o.png', title: 'tiệc tặng quà mừng em bé'},
+  { icon: 'https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/4rvhRj4TIXH.png', title: 'cộng đồng'},
+]
